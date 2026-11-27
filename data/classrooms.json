@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "classrooms": [
+        {
+            "item_id": "A-301",
+            "name": "Лабная 326",
+            "category": "laboratory",
+            "year": 2015,
+            "capacity": 30,
+            "building": "A"
+        },
+        {
+            "item_id": "A-302",
+            "name": "Лабная 709",
+            "category": "laboratory",
+            "year": 2018,
+            "capacity": 25,
+            "building": "A"
+        },
+        {
+            "item_id": "B-101",
+            "name": "Лекционка 460",
+            "category": "lecture",
+            "year": 2010,
+            "capacity": 150,
+            "building": "B"
+        }
+    ]
+}
